@@ -1,6 +1,6 @@
 
 console.log("hola amigop");
-let h = 3;
+let h = prompt("Elige un número");
 if(h === 3){
     console.log("Es 3")
 }else{
